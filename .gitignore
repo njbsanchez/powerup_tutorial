@@ -1,0 +1,5 @@
+#ParcelJS cache folder
+.cache/
+
+#ParcelLJS build folder
+dist/

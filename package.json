@@ -1,0 +1,15 @@
+{
+  "name": "powerup_tutorial",
+  "version": "1.0.0",
+  "description": "A small weather power-up for Trello",
+  "main": "index.js",
+  "repository": "https://github.com/njbsanchez/powerup_tutorial.git",
+  "author": "Nicole Sanchez(njbsanchez@gmail.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
